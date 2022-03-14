@@ -1,0 +1,61 @@
+body{
+  text-align: center;
+  font-family: serif;
+  font-size: 25px;
+}
+hr{
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+
+}
+.h1{
+  margin-bottom: 0;
+
+
+}
+.p1{
+  margin-top: 0;
+
+}
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  left: 400px;
+}
+.top-cloud{
+position: absolute;
+right: 1px;
+left: 990px;
+
+}
+.mountain{
+  padding-bottom: 100px;
+}
+.top-container{
+  background-color: #8E05C2;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #700B97;
+}
+.bottom-container{
+  background-color: #3E065F;
+}
+.valo{
+  padding-left: 100px;
+  float: left;
+}
+.code{
+  padding-right: 100px;
+  float: right;
+}
+.p2{
+  padding-bottom: 100px;
+}
+.p3{
+  
+
+
+}
